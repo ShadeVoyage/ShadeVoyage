@@ -10,6 +10,7 @@ Technologies I have been exposed to and have practical familiarity with:
 - CSS
 - C
 - Python
+- Lua
 - Bash
 - PowerShell
 - Git
