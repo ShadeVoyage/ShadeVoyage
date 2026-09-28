@@ -3,7 +3,7 @@ A sophomore folk majoring in Cybersecurity. Interested in Reverse Enginnering (m
 # Skills
 Technologies I have been exposed to and have practical familiarity with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,python,lua,bash,powershell,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,lua,c,python,bash,powershell,git)](https://skillicons.dev)
 
 # Networking
 Familiar with computer networking fundamentals, including:
