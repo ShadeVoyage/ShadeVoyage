@@ -2,14 +2,9 @@ A sophomore folk majoring in Cybersecurity. Interested in Reverse Enginnering (m
 
 # Skills
 Technologies I have been exposed to and have practical familiarity with:
-- HTML
-- CSS
-- C
-- Python
-- Lua (making Roblox games)
-- Bash
-- PowerShell
-- Git
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,python,lua,bash,powershell,git)](https://skillicons.dev)
+
 # Networking
 Familiar with computer networking fundamentals, including:
 - OSI Model
